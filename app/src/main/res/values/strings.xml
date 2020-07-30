@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Film List</string>
+    <string name="film_banner">film-banner</string>
+    <string name="film_title">Title</string>
+    <string name="film_description">Description</string>
+    <string name="image_link">Image link</string>
+    <string name="icon">icon</string>
+    <string name="confirm">Confirm</string>
+</resources>
