@@ -1,7 +1,5 @@
 package com.rois.portfolio.cakra_tech.viewmodel;
 
-import android.text.Editable;
-
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
